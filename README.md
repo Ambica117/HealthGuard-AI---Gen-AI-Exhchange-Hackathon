@@ -1,5 +1,9 @@
 **Early Cancer Detection System**
+
+
 **Overview**
+
+
 The Early Cancer Detection System is an AI-powered solution designed to detect cancer at early stages using medical images and electronic health records (EHR). This system leverages deep learning techniques, particularly convolutional neural networks (CNNs) using the EfficientNetB3 architecture, to classify images and identify the type and stage of cancer. Additionally, it assesses patients' risk factors based on their EHR data, alerting healthcare providers for timely intervention and improving patient outcomes.
 
 **Features**
